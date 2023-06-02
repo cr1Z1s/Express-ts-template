@@ -1,1 +1,1 @@
-# Starting template for Express with Typscript and mongoose
+# Starting template for Express with TypeScript and Mongoose
